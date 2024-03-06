@@ -35,3 +35,6 @@ features = [
 
 [dev-dependencies]
 bevy = "0.13"
+
+[profile.release]
+debug = true
